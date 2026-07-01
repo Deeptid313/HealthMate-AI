@@ -1,0 +1,156 @@
+Healthcare FAQ Assistant - Domain Knowledge Base
+================================================
+
+GENERAL HEALTH AND WELLNESS
+
+Regular physical activity is essential for maintaining good health. Adults should aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity exercise per week. Activities like brisk walking, swimming, cycling, and dancing all count toward this goal. In addition, muscle-strengthening activities involving all major muscle groups should be done at least two days per week.
+
+A balanced diet is the cornerstone of good health. It should include a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats. Limiting the intake of processed foods, added sugars, sodium, and saturated fats is important for reducing the risk of chronic diseases such as diabetes, heart disease, and obesity. Staying hydrated by drinking adequate amounts of water throughout the day is equally important for bodily functions.
+
+Sleep is a fundamental component of health that is often overlooked. Adults generally need 7 to 9 hours of sleep per night. Poor sleep quality or insufficient sleep duration is associated with increased risks of cardiovascular disease, diabetes, obesity, and mental health disorders. Good sleep hygiene includes maintaining a regular sleep schedule, creating a comfortable sleep environment, and avoiding screens before bedtime.
+
+Stress management plays a crucial role in overall well-being. Chronic stress can negatively affect both physical and mental health, leading to issues such as high blood pressure, weakened immunity, and anxiety. Effective stress management techniques include mindfulness meditation, deep breathing exercises, yoga, journaling, and spending time in nature. Seeking social support from friends and family also helps to buffer against the harmful effects of stress.
+
+Preventive healthcare involves taking proactive steps to avoid illness and detect conditions early. Regular health check-ups and screenings are important even when a person feels healthy. These check-ups allow healthcare providers to identify risk factors and early signs of disease before symptoms develop. Preventive measures also include vaccinations, dental check-ups, and eye exams at recommended intervals.
+
+COMMON ILLNESSES AND CONDITIONS
+
+The common cold is caused by viruses, most frequently rhinoviruses. Symptoms include a runny or stuffy nose, sore throat, cough, and mild fever. Most cases resolve within 7 to 10 days without medical treatment. Rest, staying hydrated, and over-the-counter medications for symptom relief can help manage discomfort. Antibiotics are ineffective against viral infections such as the common cold.
+
+Influenza, commonly known as the flu, is a contagious respiratory illness caused by influenza viruses. Symptoms are typically more severe than those of the common cold and can include high fever, body aches, fatigue, headache, and respiratory symptoms. Annual flu vaccination is recommended for most people, particularly the elderly, young children, and those with chronic health conditions. Antiviral medications may be prescribed by a doctor for severe cases.
+
+Type 2 diabetes is a chronic condition in which the body does not use insulin properly, leading to high blood sugar levels. Risk factors include obesity, physical inactivity, a poor diet, family history, and age. Symptoms may include increased thirst, frequent urination, unexplained weight loss, fatigue, and blurred vision. Management involves lifestyle changes such as a healthy diet and exercise, blood sugar monitoring, and medications including oral drugs and insulin as prescribed by a doctor.
+
+Hypertension, or high blood pressure, is a common condition in which the force of blood against artery walls is consistently too high. It is often called the "silent killer" because it usually has no symptoms but significantly increases the risk of heart disease and stroke. A blood pressure reading above 130/80 mmHg is generally considered high. Lifestyle modifications such as a low-sodium diet, regular exercise, maintaining a healthy weight, limiting alcohol, and quitting smoking can help manage blood pressure, along with prescribed medications.
+
+Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. Triggers can include allergens such as pollen, dust mites, and pet dander, as well as exercise, cold air, and respiratory infections. Asthma is managed with inhalers containing bronchodilators to relieve symptoms and corticosteroids to reduce inflammation, along with identifying and avoiding triggers.
+
+MENTAL HEALTH
+
+Mental health is as important as physical health and encompasses emotional, psychological, and social well-being. It affects how people think, feel, and act, and influences how they handle stress, relate to others, and make choices. Mental health disorders are common and include conditions such as depression, anxiety, bipolar disorder, schizophrenia, and post-traumatic stress disorder (PTSD).
+
+Depression is one of the most prevalent mental health disorders worldwide. It is characterized by persistent feelings of sadness, hopelessness, loss of interest in activities, changes in appetite and sleep, fatigue, difficulty concentrating, and in severe cases, thoughts of self-harm or suicide. Depression is treatable with psychotherapy, medication, or a combination of both. If you or someone you know is experiencing symptoms of depression, seeking help from a healthcare professional is important.
+
+Anxiety disorders encompass a range of conditions including generalized anxiety disorder, panic disorder, social anxiety disorder, and specific phobias. Common symptoms include excessive worry, restlessness, rapid heartbeat, sweating, trembling, and avoidance of anxiety-provoking situations. Treatment options include cognitive-behavioral therapy (CBT), medication, relaxation techniques, and lifestyle changes such as regular exercise and adequate sleep.
+
+PTSD can develop after exposure to a traumatic event such as violence, accidents, natural disasters, or military combat. Symptoms include flashbacks, nightmares, severe anxiety, and uncontrollable thoughts about the traumatic event. Effective treatments for PTSD include trauma-focused psychotherapies such as prolonged exposure therapy and EMDR (Eye Movement Desensitization and Reprocessing), as well as medications prescribed by a psychiatrist.
+
+Seeking help for mental health concerns is a sign of strength, not weakness. Many people delay treatment due to stigma or misconceptions about mental health. Mental health professionals including psychiatrists, psychologists, counselors, and therapists can provide effective support. Community resources, crisis hotlines, and online therapy platforms have also made mental health support more accessible than ever.
+
+MEDICATIONS AND TREATMENTS
+
+Antibiotics are powerful medicines used to treat bacterial infections. They work by killing bacteria or stopping their growth. It is critical to take antibiotics exactly as prescribed, complete the full course even if symptoms improve, and never share or use leftover antibiotics. Misuse of antibiotics contributes to antibiotic resistance, a major global health threat in which bacteria evolve to withstand the drugs designed to kill them.
+
+Pain relievers, also known as analgesics, are among the most commonly used medications. Over-the-counter options include acetaminophen (paracetamol) and non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen and aspirin. These medications can relieve mild to moderate pain, reduce fever, and in the case of NSAIDs, reduce inflammation. They should be taken as directed on the label and should not exceed recommended dosages to avoid side effects such as liver damage or gastrointestinal bleeding.
+
+Vaccines stimulate the immune system to produce antibodies, providing protection against specific infectious diseases without causing the disease itself. Recommended vaccinations vary by age, health condition, occupation, and travel plans. Childhood vaccines protect against diseases such as measles, mumps, rubella, polio, diphtheria, tetanus, pertussis, and chickenpox. Adults are advised to keep up with booster shots and receive vaccines such as the annual flu shot and shingles vaccine as recommended.
+
+Blood pressure medications are used when lifestyle changes alone are insufficient to control hypertension. Common classes include ACE inhibitors, angiotensin receptor blockers (ARBs), calcium channel blockers, and diuretics. These medications work through different mechanisms to lower blood pressure. It is important to take them regularly as prescribed and not to stop taking them without consulting a doctor, even if blood pressure readings improve.
+
+Chemotherapy is a type of cancer treatment that uses drugs to kill or slow the growth of cancer cells. It can be administered orally or intravenously and may be used alone or in combination with other treatments such as surgery and radiation therapy. Common side effects include fatigue, nausea, vomiting, hair loss, and increased susceptibility to infections. Supportive care measures are an important part of managing these side effects and maintaining quality of life during treatment.
+
+NUTRITION AND DIET
+
+Protein is an essential macronutrient that plays many roles in the body, including building and repairing tissues, producing enzymes and hormones, and supporting immune function. Good sources of protein include lean meats, poultry, fish, eggs, dairy products, legumes, nuts, and seeds. Adults generally need approximately 0.8 grams of protein per kilogram of body weight per day, though athletes and older adults may require more.
+
+Carbohydrates are the body's primary source of energy. Complex carbohydrates found in whole grains, legumes, and vegetables are preferable to simple carbohydrates such as those in sugary drinks and sweets, as they are digested more slowly and provide more sustained energy. The fiber found in complex carbohydrates also supports digestive health, helps control blood sugar levels, and reduces the risk of heart disease.
+
+Fats are a necessary part of the diet and serve many functions, including providing energy, supporting cell growth, protecting organs, and helping the body absorb fat-soluble vitamins (A, D, E, and K). Healthy fats include monounsaturated and polyunsaturated fats found in olive oil, avocados, nuts, and fatty fish. Saturated fats and trans fats, found in red meat, butter, and many processed foods, should be limited as they increase the risk of heart disease.
+
+Vitamins and minerals are micronutrients that the body needs in small amounts to function properly. Vitamin D is important for bone health and immune function and can be obtained from sunlight exposure, fatty fish, and fortified foods. Iron is essential for making hemoglobin in red blood cells and is found in red meat, lentils, and leafy greens. Calcium supports bone and teeth health and is found in dairy products, fortified plant milks, and leafy greens.
+
+Hydration is essential for all bodily functions including regulating body temperature, transporting nutrients, and removing waste products. The general recommendation is to drink approximately 8 glasses (2 liters) of water per day, though individual needs vary based on activity level, climate, and overall health. Certain beverages such as caffeinated drinks and alcohol can increase fluid loss and should be balanced with adequate water intake.
+
+FIRST AID AND EMERGENCIES
+
+Cardiopulmonary resuscitation (CPR) is an emergency procedure used when someone's breathing or heartbeat has stopped. It involves chest compressions and rescue breaths to maintain blood flow to the brain and vital organs until emergency medical services arrive. Anyone who witnesses a cardiac arrest should call emergency services immediately and begin CPR if trained to do so. Hands-only CPR, involving only chest compressions without rescue breaths, is also effective for adult victims of sudden cardiac arrest.
+
+Recognizing the signs of a stroke is critical for getting prompt treatment. The acronym FAST stands for Face drooping, Arm weakness, Speech difficulty, and Time to call emergency services. Other stroke symptoms include sudden numbness, confusion, trouble seeing, severe headache, and loss of balance. Stroke is a medical emergency; calling emergency services immediately and noting the time symptoms began can significantly improve outcomes.
+
+A heart attack occurs when blood flow to a part of the heart is blocked, typically by a blood clot. Symptoms include chest pain or pressure, pain spreading to the arm, neck, or jaw, shortness of breath, nausea, and cold sweats. Heart attack symptoms can differ between men and women; women are more likely to experience atypical symptoms such as fatigue and back pain. Anyone experiencing these symptoms should call emergency services immediately and chew an aspirin if not allergic.
+
+Burns are injuries to the skin and underlying tissues caused by heat, chemicals, electricity, or radiation. First-degree burns affect only the outer skin layer and cause redness and pain. Second-degree burns involve deeper layers and cause blisters. Third-degree burns are the most severe, destroying all layers of skin and possibly deeper tissues. For minor burns, cool the area with cool running water for at least 20 minutes. Serious burns require immediate emergency medical care.
+
+Allergic reactions range from mild to life-threatening. Anaphylaxis is a severe, potentially fatal allergic reaction that can occur within minutes of exposure to an allergen such as peanuts, shellfish, bee stings, or certain medications. Symptoms include hives, swelling of the face and throat, difficulty breathing, a drop in blood pressure, and loss of consciousness. Epinephrine (adrenaline), administered via an auto-injector, is the first-line treatment. Anyone who has experienced anaphylaxis should carry an epinephrine auto-injector at all times.
+
+WOMEN'S HEALTH
+
+Breast cancer is the most common cancer among women worldwide. Risk factors include age, family history, genetic mutations (such as BRCA1 and BRCA2), personal history of breast conditions, dense breast tissue, hormonal factors, and lifestyle factors such as alcohol consumption and obesity. Regular mammograms are recommended for early detection. Women should also be familiar with how their breasts normally look and feel and report any changes to their doctor promptly.
+
+Cervical cancer is caused by persistent infection with high-risk strains of human papillomavirus (HPV). Regular Pap smear tests and HPV tests allow for early detection of abnormal cells before they become cancerous. HPV vaccination is highly effective at preventing the strains of HPV responsible for most cervical cancers and is recommended for adolescents and young adults. Cervical cancer is one of the most preventable cancers when screening programs are in place.
+
+Osteoporosis is a condition in which bones become weak and brittle, increasing the risk of fractures. Women are at higher risk than men, particularly after menopause when estrogen levels decline. Risk factors include a diet low in calcium and vitamin D, physical inactivity, smoking, excessive alcohol intake, and certain medications. Weight-bearing exercise, adequate calcium and vitamin D intake, and medications prescribed by a doctor can help prevent and treat osteoporosis.
+
+Polycystic ovary syndrome (PCOS) is a common hormonal disorder affecting women of reproductive age. It is characterized by irregular menstrual cycles, excess androgen levels (leading to symptoms such as acne and excess facial hair), and polycystic ovaries seen on ultrasound. PCOS is associated with insulin resistance and an increased risk of type 2 diabetes. Treatment depends on symptoms and whether pregnancy is desired, and may include lifestyle changes, medications to regulate menstrual cycles, and fertility treatments.
+
+Menopause is a natural biological process marking the end of menstrual cycles, typically occurring in women in their late 40s to early 50s. It is diagnosed after 12 consecutive months without a menstrual period. Symptoms may include hot flashes, night sweats, sleep disturbances, mood changes, vaginal dryness, and changes in bladder function. Hormone replacement therapy (HRT) can relieve symptoms but carries certain risks; non-hormonal options and lifestyle modifications are also available.
+
+MEN'S HEALTH
+
+Prostate cancer is one of the most common cancers among men. It often grows slowly and may not cause symptoms in its early stages. Symptoms, when they occur, can include difficulty urinating, blood in urine or semen, and bone pain if the cancer has spread. Screening with a prostate-specific antigen (PSA) blood test is available but controversial due to risks of overdiagnosis. Men should discuss the benefits and risks of prostate cancer screening with their doctor.
+
+Testicular cancer most commonly affects men between the ages of 15 and 35 and is highly treatable when caught early. The most common symptom is a painless lump or swelling in a testicle. Monthly self-examinations are recommended to detect any changes early. Treatment may include surgery, radiation therapy, and chemotherapy depending on the type and stage of cancer.
+
+Erectile dysfunction (ED) is the inability to get or maintain an erection firm enough for sexual intercourse. It is common and becomes more prevalent with age. Causes include cardiovascular disease, diabetes, obesity, low testosterone, psychological factors, and certain medications. ED can be an early sign of cardiovascular disease, so men experiencing it should consult their doctor. Treatment options include lifestyle changes, medication, counseling, and other therapies.
+
+Male mental health is an important but often neglected area. Men are less likely than women to seek help for mental health problems due to societal expectations around masculinity. Depression, anxiety, and substance abuse affect men significantly. Men are also at higher risk of suicide, making it important to recognize warning signs and encourage help-seeking. Breaking the stigma around men's mental health is essential for improving outcomes.
+
+CHILDREN'S HEALTH
+
+Childhood immunizations protect children from a range of potentially serious diseases. The recommended vaccination schedule, which begins at birth, includes vaccines against hepatitis B, rotavirus, diphtheria, tetanus, pertussis, Haemophilus influenzae type b, pneumococcal disease, polio, influenza, measles, mumps, rubella, varicella, hepatitis A, and HPV. Following the recommended schedule is important for building immunity at the right age when children are most vulnerable.
+
+Childhood obesity is a growing public health concern associated with a range of health problems including type 2 diabetes, high blood pressure, and psychological issues. It is influenced by a combination of genetic, behavioral, and environmental factors. Prevention strategies include promoting healthy eating habits, limiting screen time, encouraging physical activity, and ensuring adequate sleep. A supportive family environment plays a key role in establishing healthy habits that last a lifetime.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by patterns of inattention, hyperactivity, and impulsivity that interfere with functioning and development. It is one of the most common childhood disorders and can continue into adulthood. Diagnosis involves a comprehensive evaluation by a healthcare provider. Treatment typically includes behavioral therapy, educational support, and in some cases, medication.
+
+Asthma is particularly common in children and is a leading cause of school absenteeism. It is important for parents and caregivers to understand a child's asthma triggers, recognize worsening symptoms, and know when to seek emergency care. An asthma action plan developed with a healthcare provider helps guide daily management and emergency responses. Proper use of inhalers and spacers is important for effective medication delivery in children.
+
+Food allergies affect a significant number of children and can cause reactions ranging from mild to life-threatening. Common food allergens in children include peanuts, tree nuts, milk, eggs, wheat, soy, fish, and shellfish. Managing food allergies involves strict avoidance of the allergen, reading food labels carefully, informing schools and caregivers, and always having an epinephrine auto-injector available. Many children outgrow allergies to milk, eggs, and soy, but peanut and tree nut allergies often persist into adulthood.
+
+CHRONIC DISEASE MANAGEMENT
+
+Living with a chronic disease requires ongoing management and adaptation. Conditions such as diabetes, heart disease, chronic kidney disease, and rheumatoid arthritis require long-term treatment plans developed in partnership between the patient and their healthcare team. Adherence to medications, regular monitoring, lifestyle modifications, and keeping scheduled medical appointments are all important components of effective chronic disease management.
+
+Self-monitoring is an important skill for people with chronic conditions. For example, people with diabetes are encouraged to monitor their blood glucose levels regularly and keep a record to share with their healthcare provider. People with hypertension may be advised to monitor their blood pressure at home. Tracking symptoms, triggers, and response to treatments helps patients and providers make informed decisions about care.
+
+Multidisciplinary care teams are often involved in managing complex chronic conditions. These teams may include primary care physicians, specialists, nurses, dietitians, pharmacists, physiotherapists, and social workers, all working together to address the different aspects of a patient's health. Care coordination ensures that patients receive consistent and comprehensive care without unnecessary duplication of services.
+
+Medication adherence is a significant challenge in chronic disease management. Many patients stop taking their medications when they feel better or experience side effects. Non-adherence can lead to worsening of the condition, complications, hospitalization, and increased healthcare costs. Open communication with healthcare providers about side effects, cost concerns, and other barriers to adherence is essential for finding solutions.
+
+Chronic disease management also involves addressing mental health, as chronic illness significantly increases the risk of depression and anxiety. Mental health support, including counseling and, where appropriate, medication, should be integrated into chronic disease care. Patient support groups and peer support programs can also provide valuable emotional support and practical advice from others with similar experiences.
+
+HEALTHY AGING
+
+Healthy aging involves maintaining physical, mental, and social well-being as people get older. Regular physical activity helps older adults maintain strength, balance, and flexibility, reducing the risk of falls and associated injuries. Exercise also supports cognitive health and reduces the risk of dementia. Both aerobic activities and strength training are important components of a fitness regimen for older adults.
+
+Cognitive decline is a concern for many older adults. While some degree of slowing in cognitive processing is normal with age, dementia is not a normal part of aging. Alzheimer's disease is the most common form of dementia and is characterized by progressive memory loss and cognitive decline. Risk reduction strategies include staying mentally and socially active, managing cardiovascular risk factors, and maintaining a healthy lifestyle.
+
+Fall prevention is a major priority in older adult health. Falls are the leading cause of injury among older adults and can have serious consequences including fractures, head injury, and loss of independence. Risk factors include muscle weakness, balance problems, medication side effects, vision problems, and hazards in the home environment. Assessment and addressing these risk factors, along with exercise programs targeting balance and strength, can significantly reduce fall risk.
+
+Social connection is vital for health and well-being at all ages but is particularly important for older adults, who face increased risks of isolation and loneliness. Loneliness is associated with increased risks of depression, cognitive decline, and even premature death. Staying engaged with family, friends, community groups, and volunteer activities helps maintain social ties and a sense of purpose in later life.
+
+End-of-life care involves providing comfort, dignity, and support to individuals who are nearing the end of life due to terminal illness, advanced age, or serious injury. Palliative care focuses on relieving symptoms and improving quality of life at any stage of illness, while hospice care is specialized palliative care for people in the final months of life. Advance care planning, including discussing wishes for treatment and preparing documents such as advance directives and healthcare proxies, allows individuals to have a say in their care even if they become unable to communicate their wishes.
+
+REPRODUCTIVE HEALTH
+
+Contraception includes a range of methods used to prevent pregnancy. Options include barrier methods such as condoms and diaphragms, hormonal methods such as the pill, patch, injection, and intrauterine devices (IUDs), as well as permanent methods such as tubal ligation and vasectomy. Emergency contraception can be used after unprotected sex to reduce the risk of pregnancy. Consulting with a healthcare provider helps individuals choose the method best suited to their needs and health status.
+
+Sexually transmitted infections (STIs), formerly called sexually transmitted diseases (STDs), are infections passed from one person to another through sexual contact. Common STIs include chlamydia, gonorrhea, syphilis, herpes, HPV, and HIV. Many STIs have no symptoms and can only be detected through testing. Regular STI testing is recommended for sexually active individuals, particularly those with multiple partners. Condoms, when used correctly and consistently, significantly reduce the risk of STI transmission.
+
+Prenatal care involves regular medical check-ups during pregnancy to monitor the health of both the mother and the developing baby. Prenatal care includes blood tests, ultrasounds, monitoring for complications such as gestational diabetes and preeclampsia, and nutritional guidance. Folic acid supplementation before conception and during early pregnancy reduces the risk of neural tube defects. Avoiding alcohol, tobacco, and certain medications is important for fetal development.
+
+Infertility affects approximately one in six couples and can be caused by factors in either the male or female partner, or both. Causes include ovulation disorders, blocked fallopian tubes, endometriosis, low sperm count or motility, and age-related decline in fertility. Fertility treatments range from lifestyle changes and medications to stimulate ovulation, to assisted reproductive technologies such as in vitro fertilization (IVF). Emotional support and counseling are important aspects of care for individuals and couples experiencing infertility.
+
+Postpartum care is essential for new mothers in the weeks following childbirth. Postpartum depression affects approximately one in seven women and requires prompt recognition and treatment. Symptoms include persistent sadness, anxiety, difficulty bonding with the baby, and in severe cases, thoughts of harming oneself or the baby. Breastfeeding, while beneficial for both mother and baby, can present challenges; lactation consultants and support groups can provide invaluable assistance. New mothers should attend follow-up appointments and not hesitate to reach out for help.
+
+DIAGNOSTIC TESTS AND PROCEDURES
+
+Blood tests are among the most commonly performed medical tests and provide valuable information about a person's health. A complete blood count (CBC) measures levels of red blood cells, white blood cells, and platelets and can detect conditions such as anemia, infection, and blood disorders. A comprehensive metabolic panel (CMP) provides information about blood sugar, kidney function, liver function, and electrolytes. Lipid panels measure cholesterol and triglyceride levels and assess cardiovascular risk.
+
+Medical imaging techniques allow healthcare providers to see inside the body without surgery. X-rays are used to examine bones and detect fractures, pneumonia, and other conditions. CT (computed tomography) scans provide more detailed cross-sectional images and are used to evaluate injuries, tumors, and internal bleeding. MRI (magnetic resonance imaging) uses magnetic fields and radio waves to produce detailed images of soft tissues, the brain, and spinal cord. Ultrasound uses sound waves to image organs such as the heart, liver, kidneys, and developing baby during pregnancy.
+
+Biopsies involve the removal of a small sample of tissue for laboratory examination to determine whether abnormal cells are cancerous. They can be performed using needles, endoscopes, or during surgical procedures. Biopsies are an important tool in diagnosing cancer and other diseases. Results typically take several days and are reviewed by a pathologist, who provides a report to the treating physician.
+
+Endoscopy allows doctors to look inside the body using a flexible tube with a camera. Upper endoscopy examines the esophagus, stomach, and small intestine, while colonoscopy examines the large intestine. These procedures are used to diagnose conditions such as ulcers, inflammation, polyps, and cancer, and can also be used to perform certain treatments such as removal of polyps. Patients are typically sedated during the procedure for comfort.
+
+Genetic testing can identify changes in genes, chromosomes, or proteins that may be associated with inherited conditions or increased risk of disease. Tests are available for conditions such as cystic fibrosis, hereditary cancers, and chromosomal abnormalities in fetuses. Genetic counseling, provided by trained professionals, helps individuals understand what genetic test results mean and the implications for themselves and their family members.

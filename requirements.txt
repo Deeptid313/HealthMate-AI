@@ -1,0 +1,28 @@
+# Core fine-tuning stack
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+xformers<0.0.27
+trl<0.9.0
+peft
+accelerate
+bitsandbytes
+
+# Hugging Face ecosystem
+transformers>=4.38.0
+datasets>=2.18.0
+tokenizers>=0.15.0
+huggingface-hub>=0.21.0
+
+# Training utilities
+torch>=2.1.0
+sentencepiece
+protobuf
+
+# Notebook / analysis
+jupyter
+ipykernel
+
+
+gradio
+unsloth
+transformers
+torch
